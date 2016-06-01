@@ -1,0 +1,1583 @@
+[
+  {
+    "nazwa": "WBiA",
+    "kierunki": [
+      {
+        "nazwa": "Budownictwo",
+        "plany": [
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_1_sem._1_2015-16.pdf",
+            "nazwa": "N1_rok_1_sem._1_2015-16.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N2_KBI_TOB_rok_1_sem._1_2015-16.pdf",
+            "nazwa": "N2_KBI_TOB_rok_1_sem._1_2015-16.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_B_II.pdf",
+            "nazwa": "S1_B_II.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_B_I.pdf",
+            "nazwa": "S1_B_I.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N2_KBI_TOB_rok_2_sem._3_2015-16.pdf",
+            "nazwa": "N2_KBI_TOB_rok_2_sem._3_2015-16.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_5_sem._9_2015-16.pdf",
+            "nazwa": "N1_rok_5_sem._9_2015-16.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S2/S2_B_I.pdf",
+            "nazwa": "S2_B_I.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_2_sem._3_2015-16.pdf",
+            "nazwa": "N1_rok_2_sem._3_2015-16.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_B_III.pdf",
+            "nazwa": "S1_B_III.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_4_sem._7_2015-16.pdf",
+            "nazwa": "N1_rok_4_sem._7_2015-16.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S2/S2_B_II.pdf",
+            "nazwa": "S2_B_II.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_3_sem._5_2015-16.pdf",
+            "nazwa": "N1_rok_3_sem._5_2015-16.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          }
+        ]
+      },
+      {
+        "nazwa": "Inżynieria Środowiska",
+        "plany": [
+          {
+            "link": "http:/wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_IS.pdf",
+            "nazwa": "S1_IS.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N2_IS_rok_1_sem._1_2015-16.pdf",
+            "nazwa": "N2_IS_rok_1_sem._1_2015-16.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "link": "wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S2/S2_IS.pdf",
+            "nazwa": "S2_IS.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          }
+        ]
+      },
+      {
+        "nazwa": "Inżynier Europejski",
+        "plany": [
+          {
+            "link": "http:/wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_IE.pdf",
+            "nazwa": "S1_IE.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ]
+      },
+      {
+        "nazwa": "Architektura S1/S2",
+        "plany": [
+          {
+            "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/architektura/Architektura_sem._zimowy_2015-16.pdf",
+            "nazwa": "Architektura_sem._zimowy_2015-16.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/architektura/arch_niestacjon_2015-16_sem._3.pdf",
+            "nazwa": "arch_niestacjon_2015-16_sem._3.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/architektura/arch_niestacjon_2015-16_sem._1.pdf",
+            "nazwa": "arch_niestacjon_2015-16_sem._1.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          }
+        ]
+      },
+      {
+        "nazwa": "Wzornictwo S1/S2",
+        "plany": [
+          {
+            "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/architektura/Wzornictwo_sem._zimowy_2015-2016.pdf",
+            "nazwa": "Wzornictwo_sem._zimowy_2015-2016.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nazwa": "WE",
+    "kierunki": [
+      {
+        "nazwa": "Ekonomia",
+        "plany": [
+          {
+            "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N1_EK_II_rok_sem._zimowy_2015_16.xlsx",
+            "nazwa": "PLAN_ZAJEC_N1_EK_II_rok_sem._zimowy_2015_16.xlsx",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_S2E_I_II_rok_sem_zimowy_2015_16.xls",
+            "nazwa": "PLAN_ZAJEC_S2E_I_II_rok_sem_zimowy_2015_16.xls",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_S1_E_I_II_III_rok-sem_zimowy_2015-16.xls",
+            "nazwa": "PLAN_ZAJEC_S1_E_I_II_III_rok-sem_zimowy_2015-16.xls",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N1_EK_III_rok_sem._zimowy_2015_16.xlsx",
+            "nazwa": "PLAN_ZAJEC_N1_EK_III_rok_sem._zimowy_2015_16.xlsx",
+            "rodzaj": "Niestacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N2_EK_II_rok_sem._zimowy_2015_16.xlsx",
+            "nazwa": "PLAN_ZAJEC_N2_EK_II_rok_sem._zimowy_2015_16.xlsx",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N2_E_I_rok_sem.zimowy_2015_09.10.2015.xlsx",
+            "nazwa": "PLAN_ZAJEC_N2_E_I_rok_sem.zimowy_2015_09.10.2015.xlsx",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          }
+        ]
+      },
+      {
+        "nazwa": "Zarządzanie",
+        "plany": [
+          {
+            "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N1_Zarzadzanie____I_rok_sem._zimowy_2015_16_____pierwszy_zjazd.xlsx",
+            "nazwa": "PLAN_ZAJEC_N1_Zarzadzanie____I_rok_sem._zimowy_2015_16_____pierwszy_zjazd.xlsx",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nazwa": "WNoZiR",
+    "kierunki": [
+      {
+        "nazwa": "TZiZcz",
+        "plany": [
+          {
+            "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/Zima_2015-2016/TZiZcz_zima_2015-2016.pdf",
+            "nazwa": "TZiZcz_zima_2015-2016.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ]
+      },
+      {
+        "nazwa": "Rybactwo",
+        "plany": [
+          {
+            "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/Zima_2015-2016/Ryb_zima_2015-2016.pdf",
+            "nazwa": "Ryb_zima_2015-2016.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ]
+      },
+      {
+        "nazwa": "Mikrobiologia Stosowana",
+        "plany": [
+          {
+            "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/Zima_2015-2016/Mikrobiol_zima_2015-2016.pdf",
+            "nazwa": "Mikrobiol_zima_2015-2016.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ]
+      },
+      {
+        "nazwa": "Zarządzanie",
+        "plany": [
+          {
+            "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/Zima_2015-2016/Zarzadzanie_zima_2015-2016.pdf",
+            "nazwa": "Zarzadzanie_zima_2015-2016.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ]
+      },
+      {
+        "nazwa": "Ogólnie",
+        "plany": [
+          {
+            "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/studia_niestacjonarne/zima_2015_2016/Plan_zajec_sem__zimowy_2015_2016.pdf",
+            "nazwa": "Plan_zajec_sem__zimowy_2015_2016.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nazwa": "WTMiZ",
+    "kierunki": [
+      {
+        "nazwa": "Budowa jachtów",
+        "plany": [
+          {
+            "nazwa": "Bj-S1-g2a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Bj-S1-g1a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Bj-S1-g4a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Bj-S1-g3a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+      },
+      {
+        "nazwa": "Chłodnictwo i klimatyzacja",
+        "plany": [
+          {
+            "nazwa": "Ck-S1-g1a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+      },
+      {
+        "nazwa": "Inżynieria bezpieczeństwa",
+        "plany": [
+          {
+            "nazwa": "Ib-S1-g3a01!IBP.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Ib-S1-g3a01!BOIST.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Ib-S1-g4a01!BOIST.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Ib-S1-g4a01!IBP.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Ib-S1-g1a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Ib-S1-g2a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+      },
+      {
+        "nazwa": "Oceanotechnika",
+        "plany": [
+          {
+            "nazwa": "Oc-S2-g2a01!PIBOO.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "Oc-S1-g2a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Oc-S1-g4a01!PIBO.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Oc-S1-g1a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+      },
+      {
+        "nazwa": "Transport",
+        "plany": [
+          {
+            "nazwa": "Tr-S1-g2a02.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Tr-S1-g3a02.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Tr-S1-g4a01!ZTWIL.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Tr-S1-g4a01!TCHIP.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Tr-S1-g2a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Tr-S2-g1a01!LZTZ.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "Tr-S1-g3a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "Tr-S2-g2a01!LZTZ.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "Tr-S1-g1a01.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+      }
+    ]
+  },
+  {
+    "nazwa": "WTiICh",
+    "kierunki": [
+      {
+        "nazwa": "Chemia",
+        "plany": [
+          {
+            "nazwa": "KCh1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "KCh1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "KCh1-22.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "KCh1-12.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+      },
+      {
+        "nazwa": "IChiP",
+        "plany": [
+          {
+            "nazwa": "ICHP1-41.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ICHP1n-41.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ICHP1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ICHP1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ICHP2-L11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "ICHP1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+      },
+      {
+        "nazwa": "Nanotechnologia",
+        "plany": [
+          {
+            "nazwa": "NA2-L11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "NA1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "NA1-42.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "NA1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "NA1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "NA1-32.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+      },
+      {
+        "nazwa": "Ochrona środowiska",
+        "plany": [
+          {
+            "nazwa": "KOS1-41.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+      },
+      {
+        "nazwa": "Technologia chemiczna",
+        "plany": [
+          {
+            "nazwa": "TCH1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "TCH2-23.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "TCH1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "TCH2-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "TCH1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "TCH1-32.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "TCH1-43.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "TCH2-L11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "TCH1-42.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "TCH2-L13.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "TCH2-L12.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          }
+        ],
+        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+      }
+    ]
+  },
+  {
+    "nazwa": "WIMiM",
+    "kierunki": [
+      {
+        "nazwa": "Energetyka",
+        "plany": [
+          {
+            "nazwa": "E1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "E1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "E1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "E1-41.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+      },
+      {
+        "nazwa": "Inżynieria Materiałowa",
+        "plany": [
+          {
+            "nazwa": "IM1-41.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IM1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IM1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IM1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IM2-L11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          }
+        ],
+        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+      },
+      {
+        "nazwa": "Mechanika i budowa maszyn",
+        "plany": [
+          {
+            "nazwa": "M2n-13.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "M2n-22.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "M1n-41.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "M2-L12.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "M1n-11.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "M2-L13.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "M1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "M1-41.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "M2-23.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "M1n-21.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "M1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "M1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "M2-L14.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "M2n-12.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "M2n-23.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "M1n-31.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "M2-12.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "M1-12.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+      },
+      {
+        "nazwa": "Mechatronika",
+        "plany": [
+          {
+            "nazwa": "MT1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "MT1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "MT1-41.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "MT1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "MT1-12.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+      },
+      {
+        "nazwa": "Transport",
+        "plany": [
+          {
+            "nazwa": "T1n-21.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "T2-13.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "T1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "T1n-31.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "T1-41.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "T1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "T1-42.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "T1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "T1n-41.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+      },
+      {
+        "nazwa": "ZiIP",
+        "plany": [
+          {
+            "nazwa": "ZiIP1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZiIP1n-11.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZiIP2-23.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "ZiIP1-43.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZiIP2n-21.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "ZiIP2-L14.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "ZiIP1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZiIP2n-22.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "ZiIP1-22.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZiIP1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZiIP2-13.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "ZiIP1n-41.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZiIP2n-12.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "ZiIP2n-11.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "ZiIP1n-21.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZiIP1-12.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+      }
+    ]
+  },
+  {
+    "nazwa": "WI",
+    "kierunki": [
+      {
+        "nazwa": "Informatyka",
+        "plany": [
+          {
+            "nazwa": "I1n-46.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-42.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I3-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S3"
+          },
+          {
+            "nazwa": "I1n-30.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-211.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-121.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1n-10.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-123.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I3-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S3"
+          },
+          {
+            "nazwa": "I1-220.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-110.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-213.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-223.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1n-12.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-223.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-114.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1n-20.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-36.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-41.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-122.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-35.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I3-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S3"
+          },
+          {
+            "nazwa": "I1-125.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1n-41.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-44.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-113.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-43.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-210.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-124.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-46.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-212.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-222.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-34.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1n-11.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-111.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-120.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-32.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-112.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-45.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-30.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-33.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-221.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "I1-115.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+      },
+      {
+        "nazwa": "Informatyka 3 sem.",
+        "plany": [
+          {
+            "nazwa": "I2-16.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2-14.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2-24.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2-27.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2-28.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          }
+        ],
+        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+      },
+      {
+        "nazwa": "Informatyka lato",
+        "plany": [
+          {
+            "nazwa": "I2-L17.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2-L16.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2-L14.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          }
+        ],
+        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+      },
+      {
+        "nazwa": "ZIP",
+        "plany": [
+          {
+            "nazwa": "ZIP1-31.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZIP1-42.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZIP1n-44.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "ZIP1-43.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+      },
+      {
+        "nazwa": "BIO",
+        "plany": [
+          {
+            "nazwa": "BI1-30.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "BI1-40.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "4",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+      },
+      {
+        "nazwa": "Informatyka 4 sem.",
+        "plany": [
+          {
+            "nazwa": "I2n-24.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2n-14.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2n-26.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2n-28.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "2",
+            "stopien": "S2"
+          },
+          {
+            "nazwa": "I2n-18.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S2"
+          }
+        ],
+        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+      },
+      {
+        "nazwa": "SP Analiza i fuzja",
+        "plany": [
+          {
+            "nazwa": "AFDPn-11.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+      },
+      {
+        "nazwa": "SP Programowanie",
+        "plany": [
+          {
+            "nazwa": "PKn-11.pdf",
+            "rodzaj": "Niestacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+      },
+      {
+        "nazwa": "IC",
+        "plany": [
+          {
+            "nazwa": "IC1-11.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IC1-32.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IC1-13.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IC1-10.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IC1-20.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IC1-12.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "1",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IC1-21.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "2",
+            "stopien": "S1"
+          },
+          {
+            "nazwa": "IC1-34.pdf",
+            "rodzaj": "Stacjonarne",
+            "rok": "3",
+            "stopien": "S1"
+          }
+        ],
+        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+      }
+    ]
+  }
+]
