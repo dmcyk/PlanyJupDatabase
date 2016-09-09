@@ -1,5 +1,5 @@
 {
     "student":"http://www.wi.zut.edu.pl/ogloszenia?format=feed&type=atom",
     "faculty":"http://www.wi.zut.edu.pl/index.php?format=feed&type=atom",
-    "changes":"http://www.wi.zut.edu.pl/plan-zajec/zmiany-w-planie?format=feed&amp;type=atom",
+    "changes":"http://www.wi.zut.edu.pl/plan-zajec/zmiany-w-planie?format=feed&amp;type=atom"
 }
