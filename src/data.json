@@ -1,1582 +1,1582 @@
 [
   {
-    "nazwa": "WBiA",
-    "kierunki": [
+    "name": "WBiA",
+    "fields": [
       {
-        "nazwa": "Budownictwo",
-        "plany": [
+        "name": "Budownictwo",
+        "sheets": [
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_1_sem._1_2015-16.pdf",
-            "nazwa": "N1_rok_1_sem._1_2015-16.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "N1_rok_1_sem._1_2015-16.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N2_KBI_TOB_rok_1_sem._1_2015-16.pdf",
-            "nazwa": "N2_KBI_TOB_rok_1_sem._1_2015-16.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "N2_KBI_TOB_rok_1_sem._1_2015-16.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
             "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_B_II.pdf",
-            "nazwa": "S1_B_II.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "S1_B_II.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
             "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_B_I.pdf",
-            "nazwa": "S1_B_I.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "S1_B_I.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N2_KBI_TOB_rok_2_sem._3_2015-16.pdf",
-            "nazwa": "N2_KBI_TOB_rok_2_sem._3_2015-16.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "N2_KBI_TOB_rok_2_sem._3_2015-16.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_5_sem._9_2015-16.pdf",
-            "nazwa": "N1_rok_5_sem._9_2015-16.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "N1_rok_5_sem._9_2015-16.pdf",
+            "type": "Niestacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
             "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S2/S2_B_I.pdf",
-            "nazwa": "S2_B_I.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "S2_B_I.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_2_sem._3_2015-16.pdf",
-            "nazwa": "N1_rok_2_sem._3_2015-16.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "N1_rok_2_sem._3_2015-16.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
             "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_B_III.pdf",
-            "nazwa": "S1_B_III.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "S1_B_III.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_4_sem._7_2015-16.pdf",
-            "nazwa": "N1_rok_4_sem._7_2015-16.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "N1_rok_4_sem._7_2015-16.pdf",
+            "type": "Niestacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
             "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S2/S2_B_II.pdf",
-            "nazwa": "S2_B_II.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "S2_B_II.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N1_rok_3_sem._5_2015-16.pdf",
-            "nazwa": "N1_rok_3_sem._5_2015-16.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "N1_rok_3_sem._5_2015-16.pdf",
+            "type": "Niestacjonarne",
+            "year": "3",
+            "degree": "S1"
           }
         ]
       },
       {
-        "nazwa": "Inżynieria Środowiska",
-        "plany": [
+        "name": "Inżynieria Środowiska",
+        "sheets": [
           {
             "link": "http:/wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_IS.pdf",
-            "nazwa": "S1_IS.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "S1_IS.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/budownictwo/2015_16/N2_IS_rok_1_sem._1_2015-16.pdf",
-            "nazwa": "N2_IS_rok_1_sem._1_2015-16.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "N2_IS_rok_1_sem._1_2015-16.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
             "link": "wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S2/S2_IS.pdf",
-            "nazwa": "S2_IS.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "S2_IS.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           }
         ]
       },
       {
-        "nazwa": "Inżynier Europejski",
-        "plany": [
+        "name": "Inżynier Europejski",
+        "sheets": [
           {
             "link": "http:/wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/budownictwo/S1/S1_IE.pdf",
-            "nazwa": "S1_IE.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "S1_IE.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ]
       },
       {
-        "nazwa": "Architektura S1/S2",
-        "plany": [
+        "name": "Architektura S1/S2",
+        "sheets": [
           {
             "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/architektura/Architektura_sem._zimowy_2015-16.pdf",
-            "nazwa": "Architektura_sem._zimowy_2015-16.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Architektura_sem._zimowy_2015-16.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/architektura/arch_niestacjon_2015-16_sem._3.pdf",
-            "nazwa": "arch_niestacjon_2015-16_sem._3.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "arch_niestacjon_2015-16_sem._3.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
             "link": "http://www.wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/niestacjonarne/architektura/arch_niestacjon_2015-16_sem._1.pdf",
-            "nazwa": "arch_niestacjon_2015-16_sem._1.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "arch_niestacjon_2015-16_sem._1.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           }
         ]
       },
       {
-        "nazwa": "Wzornictwo S1/S2",
-        "plany": [
+        "name": "Wzornictwo S1/S2",
+        "sheets": [
           {
             "link": "http://wbia.zut.edu.pl/fileadmin/pliki/wbia/zalaczniki/programy_i_plany/plany_zajec/stacjonarne/architektura/Wzornictwo_sem._zimowy_2015-2016.pdf",
-            "nazwa": "Wzornictwo_sem._zimowy_2015-2016.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Wzornictwo_sem._zimowy_2015-2016.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ]
       }
     ]
   },
   {
-    "nazwa": "WE",
-    "kierunki": [
+    "name": "WE",
+    "fields": [
       {
-        "nazwa": "Ekonomia",
-        "plany": [
+        "name": "Ekonomia",
+        "sheets": [
           {
             "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N1_EK_II_rok_sem._zimowy_2015_16.xlsx",
-            "nazwa": "PLAN_ZAJEC_N1_EK_II_rok_sem._zimowy_2015_16.xlsx",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "PLAN_ZAJEC_N1_EK_II_rok_sem._zimowy_2015_16.xlsx",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
             "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_S2E_I_II_rok_sem_zimowy_2015_16.xls",
-            "nazwa": "PLAN_ZAJEC_S2E_I_II_rok_sem_zimowy_2015_16.xls",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "PLAN_ZAJEC_S2E_I_II_rok_sem_zimowy_2015_16.xls",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
             "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_S1_E_I_II_III_rok-sem_zimowy_2015-16.xls",
-            "nazwa": "PLAN_ZAJEC_S1_E_I_II_III_rok-sem_zimowy_2015-16.xls",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "PLAN_ZAJEC_S1_E_I_II_III_rok-sem_zimowy_2015-16.xls",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
             "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N1_EK_III_rok_sem._zimowy_2015_16.xlsx",
-            "nazwa": "PLAN_ZAJEC_N1_EK_III_rok_sem._zimowy_2015_16.xlsx",
-            "rodzaj": "Niestacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "PLAN_ZAJEC_N1_EK_III_rok_sem._zimowy_2015_16.xlsx",
+            "type": "Niestacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
             "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N2_EK_II_rok_sem._zimowy_2015_16.xlsx",
-            "nazwa": "PLAN_ZAJEC_N2_EK_II_rok_sem._zimowy_2015_16.xlsx",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "PLAN_ZAJEC_N2_EK_II_rok_sem._zimowy_2015_16.xlsx",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
             "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N2_E_I_rok_sem.zimowy_2015_09.10.2015.xlsx",
-            "nazwa": "PLAN_ZAJEC_N2_E_I_rok_sem.zimowy_2015_09.10.2015.xlsx",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "PLAN_ZAJEC_N2_E_I_rok_sem.zimowy_2015_09.10.2015.xlsx",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           }
         ]
       },
       {
-        "nazwa": "Zarządzanie",
-        "plany": [
+        "name": "Zarządzanie",
+        "sheets": [
           {
             "link": "http://wekon.zut.edu.pl/fileadmin/pliki/pliki_jednostek/wydzialy/ekonomiczny/ROZKLADY/2016/PLAN_ZAJEC_N1_Zarzadzanie____I_rok_sem._zimowy_2015_16_____pierwszy_zjazd.xlsx",
-            "nazwa": "PLAN_ZAJEC_N1_Zarzadzanie____I_rok_sem._zimowy_2015_16_____pierwszy_zjazd.xlsx",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "PLAN_ZAJEC_N1_Zarzadzanie____I_rok_sem._zimowy_2015_16_____pierwszy_zjazd.xlsx",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ]
       }
     ]
   },
   {
-    "nazwa": "WNoZiR",
-    "kierunki": [
+    "name": "WNoZiR",
+    "fields": [
       {
-        "nazwa": "TZiZcz",
-        "plany": [
+        "name": "TZiZcz",
+        "sheets": [
           {
             "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/Zima_2015-2016/TZiZcz_zima_2015-2016.pdf",
-            "nazwa": "TZiZcz_zima_2015-2016.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "TZiZcz_zima_2015-2016.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ]
       },
       {
-        "nazwa": "Rybactwo",
-        "plany": [
+        "name": "Rybactwo",
+        "sheets": [
           {
             "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/Zima_2015-2016/Ryb_zima_2015-2016.pdf",
-            "nazwa": "Ryb_zima_2015-2016.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Ryb_zima_2015-2016.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ]
       },
       {
-        "nazwa": "Mikrobiologia Stosowana",
-        "plany": [
+        "name": "Mikrobiologia Stosowana",
+        "sheets": [
           {
             "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/Zima_2015-2016/Mikrobiol_zima_2015-2016.pdf",
-            "nazwa": "Mikrobiol_zima_2015-2016.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Mikrobiol_zima_2015-2016.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ]
       },
       {
-        "nazwa": "Zarządzanie",
-        "plany": [
+        "name": "Zarządzanie",
+        "sheets": [
           {
             "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/Zima_2015-2016/Zarzadzanie_zima_2015-2016.pdf",
-            "nazwa": "Zarzadzanie_zima_2015-2016.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Zarzadzanie_zima_2015-2016.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ]
       },
       {
-        "nazwa": "Ogólnie",
-        "plany": [
+        "name": "Ogólnie",
+        "sheets": [
           {
             "link": "http://www.wnozir.zut.edu.pl/fileadmin/pliki/wnozir/dziekanat/plany/studia_niestacjonarne/zima_2015_2016/Plan_zajec_sem__zimowy_2015_2016.pdf",
-            "nazwa": "Plan_zajec_sem__zimowy_2015_2016.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Plan_zajec_sem__zimowy_2015_2016.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ]
       }
     ]
   },
   {
-    "nazwa": "WTMiZ",
-    "kierunki": [
+    "name": "WTMiZ",
+    "fields": [
       {
-        "nazwa": "Budowa jachtów",
-        "plany": [
+        "name": "Budowa jachtów",
+        "sheets": [
           {
-            "nazwa": "Bj-S1-g2a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "Bj-S1-g2a01.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "Bj-S1-g1a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Bj-S1-g1a01.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "Bj-S1-g4a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "Bj-S1-g4a01.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "Bj-S1-g3a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "Bj-S1-g3a01.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           }
         ],
-        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+        "stationaryBase": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
       },
       {
-        "nazwa": "Chłodnictwo i klimatyzacja",
-        "plany": [
+        "name": "Chłodnictwo i klimatyzacja",
+        "sheets": [
           {
-            "nazwa": "Ck-S1-g1a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Ck-S1-g1a01.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+        "stationaryBase": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
       },
       {
-        "nazwa": "Inżynieria bezpieczeństwa",
-        "plany": [
+        "name": "Inżynieria bezpieczeństwa",
+        "sheets": [
           {
-            "nazwa": "Ib-S1-g3a01!IBP.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "Ib-S1-g3a01!IBP.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "Ib-S1-g3a01!BOIST.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "Ib-S1-g3a01!BOIST.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "Ib-S1-g4a01!BOIST.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "Ib-S1-g4a01!BOIST.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "Ib-S1-g4a01!IBP.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "Ib-S1-g4a01!IBP.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "Ib-S1-g1a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Ib-S1-g1a01.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "Ib-S1-g2a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "Ib-S1-g2a01.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           }
         ],
-        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+        "stationaryBase": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
       },
       {
-        "nazwa": "Oceanotechnika",
-        "plany": [
+        "name": "Oceanotechnika",
+        "sheets": [
           {
-            "nazwa": "Oc-S2-g2a01!PIBOO.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "Oc-S2-g2a01!PIBOO.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "Oc-S1-g2a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "Oc-S1-g2a01.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "Oc-S1-g4a01!PIBO.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "Oc-S1-g4a01!PIBO.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "Oc-S1-g1a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Oc-S1-g1a01.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+        "stationaryBase": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
       },
       {
-        "nazwa": "Transport",
-        "plany": [
+        "name": "Transport",
+        "sheets": [
           {
-            "nazwa": "Tr-S1-g2a02.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "Tr-S1-g2a02.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "Tr-S1-g3a02.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "Tr-S1-g3a02.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "Tr-S1-g4a01!ZTWIL.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "Tr-S1-g4a01!ZTWIL.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "Tr-S1-g4a01!TCHIP.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "Tr-S1-g4a01!TCHIP.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "Tr-S1-g2a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "Tr-S1-g2a01.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "Tr-S2-g1a01!LZTZ.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "Tr-S2-g1a01!LZTZ.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "Tr-S1-g3a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "Tr-S1-g3a01.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "Tr-S2-g2a01!LZTZ.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "Tr-S2-g2a01!LZTZ.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "Tr-S1-g1a01.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "Tr-S1-g1a01.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaS": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
+        "stationaryBase": "http://www.fmt.zut.edu.pl/doc/stud/plany_zajec/st/"
       }
     ]
   },
   {
-    "nazwa": "WTiICh",
-    "kierunki": [
+    "name": "WTiICh",
+    "fields": [
       {
-        "nazwa": "Chemia",
-        "plany": [
+        "name": "Chemia",
+        "sheets": [
           {
-            "nazwa": "KCh1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "KCh1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "KCh1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "KCh1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "KCh1-22.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "KCh1-22.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "KCh1-12.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "KCh1-12.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
-        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+        "extramuralBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "stationaryBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
       },
       {
-        "nazwa": "IChiP",
-        "plany": [
+        "name": "IChiP",
+        "sheets": [
           {
-            "nazwa": "ICHP1-41.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "ICHP1-41.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "ICHP1n-41.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "ICHP1n-41.pdf",
+            "type": "Niestacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "ICHP1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "ICHP1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "ICHP1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "ICHP1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "ICHP2-L11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "ICHP2-L11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "ICHP1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "ICHP1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
-        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+        "extramuralBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "stationaryBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
       },
       {
-        "nazwa": "Nanotechnologia",
-        "plany": [
+        "name": "Nanotechnologia",
+        "sheets": [
           {
-            "nazwa": "NA2-L11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "NA2-L11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "NA1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "NA1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "NA1-42.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "NA1-42.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "NA1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "NA1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "NA1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "NA1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "NA1-32.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "NA1-32.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
-        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+        "extramuralBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "stationaryBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
       },
       {
-        "nazwa": "Ochrona środowiska",
-        "plany": [
+        "name": "Ochrona środowiska",
+        "sheets": [
           {
-            "nazwa": "KOS1-41.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "KOS1-41.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
-        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+        "extramuralBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "stationaryBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
       },
       {
-        "nazwa": "Technologia chemiczna",
-        "plany": [
+        "name": "Technologia chemiczna",
+        "sheets": [
           {
-            "nazwa": "TCH1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "TCH1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "TCH2-23.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "TCH2-23.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "TCH1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "TCH1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "TCH2-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "TCH2-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "TCH1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "TCH1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "TCH1-32.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "TCH1-32.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "TCH1-43.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "TCH1-43.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "TCH2-L11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "TCH2-L11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "TCH1-42.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "TCH1-42.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "TCH2-L13.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "TCH2-L13.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "TCH2-L12.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "TCH2-L12.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           }
         ],
-        "podstawaNS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
-        "podstawaS": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
+        "extramuralBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/",
+        "stationaryBase": "http://www.wtiich.zut.edu.pl/fileadmin/pliki/wtiich/dla_studentow/Plany_zajec/"
       }
     ]
   },
   {
-    "nazwa": "WIMiM",
-    "kierunki": [
+    "name": "WIMiM",
+    "fields": [
       {
-        "nazwa": "Energetyka",
-        "plany": [
+        "name": "Energetyka",
+        "sheets": [
           {
-            "nazwa": "E1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "E1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "E1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "E1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "E1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "E1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "E1-41.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "E1-41.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
-        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+        "extramuralBase": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "stationaryBase": "http://www.tyszka.zut.edu.pl/stud_plany/"
       },
       {
-        "nazwa": "Inżynieria Materiałowa",
-        "plany": [
+        "name": "Inżynieria Materiałowa",
+        "sheets": [
           {
-            "nazwa": "IM1-41.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "IM1-41.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "IM1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "IM1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "IM1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "IM1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "IM1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "IM1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "IM2-L11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "IM2-L11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           }
         ],
-        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
-        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+        "extramuralBase": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "stationaryBase": "http://www.tyszka.zut.edu.pl/stud_plany/"
       },
       {
-        "nazwa": "Mechanika i budowa maszyn",
-        "plany": [
+        "name": "Mechanika i budowa maszyn",
+        "sheets": [
           {
-            "nazwa": "M2n-13.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "M2n-13.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "M2n-22.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "M2n-22.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "M1n-41.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "M1n-41.pdf",
+            "type": "Niestacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "M2-L12.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S2"
+            "name": "M2-L12.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S2"
           },
           {
-            "nazwa": "M1n-11.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "M1n-11.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "M2-L13.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S2"
+            "name": "M2-L13.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S2"
           },
           {
-            "nazwa": "M1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "M1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "M1-41.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "M1-41.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "M2-23.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "M2-23.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "M1n-21.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "M1n-21.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "M1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "M1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "M1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "M1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "M2-L14.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S2"
+            "name": "M2-L14.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S2"
           },
           {
-            "nazwa": "M2n-12.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "M2n-12.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "M2n-23.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "M2n-23.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "M1n-31.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "M1n-31.pdf",
+            "type": "Niestacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "M2-12.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "M2-12.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "M1-12.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "M1-12.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
-        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+        "extramuralBase": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "stationaryBase": "http://www.tyszka.zut.edu.pl/stud_plany/"
       },
       {
-        "nazwa": "Mechatronika",
-        "plany": [
+        "name": "Mechatronika",
+        "sheets": [
           {
-            "nazwa": "MT1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "MT1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "MT1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "MT1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "MT1-41.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "MT1-41.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "MT1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "MT1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "MT1-12.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "MT1-12.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
-        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+        "extramuralBase": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "stationaryBase": "http://www.tyszka.zut.edu.pl/stud_plany/"
       },
       {
-        "nazwa": "Transport",
-        "plany": [
+        "name": "Transport",
+        "sheets": [
           {
-            "nazwa": "T1n-21.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "T1n-21.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "T2-13.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "T2-13.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "T1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "T1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "T1n-31.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "T1n-31.pdf",
+            "type": "Niestacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "T1-41.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "T1-41.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "T1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "T1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "T1-42.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "T1-42.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "T1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "T1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "T1n-41.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "T1n-41.pdf",
+            "type": "Niestacjonarne",
+            "year": "4",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
-        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+        "extramuralBase": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "stationaryBase": "http://www.tyszka.zut.edu.pl/stud_plany/"
       },
       {
-        "nazwa": "ZiIP",
-        "plany": [
+        "name": "ZiIP",
+        "sheets": [
           {
-            "nazwa": "ZiIP1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "ZiIP1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZiIP1n-11.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "ZiIP1n-11.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZiIP2-23.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "ZiIP2-23.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "ZiIP1-43.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "ZiIP1-43.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZiIP2n-21.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "ZiIP2n-21.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "ZiIP2-L14.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S2"
+            "name": "ZiIP2-L14.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S2"
           },
           {
-            "nazwa": "ZiIP1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "ZiIP1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZiIP2n-22.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "ZiIP2n-22.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "ZiIP1-22.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "ZiIP1-22.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZiIP1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "ZiIP1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZiIP2-13.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "ZiIP2-13.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "ZiIP1n-41.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "ZiIP1n-41.pdf",
+            "type": "Niestacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZiIP2n-12.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "ZiIP2n-12.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "ZiIP2n-11.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "ZiIP2n-11.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "ZiIP1n-21.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "ZiIP1n-21.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZiIP1-12.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "ZiIP1-12.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.tyszka.zut.edu.pl/stud_plany/",
-        "podstawaS": "http://www.tyszka.zut.edu.pl/stud_plany/"
+        "extramuralBase": "http://www.tyszka.zut.edu.pl/stud_plany/",
+        "stationaryBase": "http://www.tyszka.zut.edu.pl/stud_plany/"
       }
     ]
   },
   {
-    "nazwa": "WI",
-    "kierunki": [
+    "name": "WI",
+    "fields": [
       {
-        "nazwa": "Informatyka",
-        "plany": [
+        "name": "Informatyka",
+        "sheets": [
           {
-            "nazwa": "I1n-46.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "I1n-46.pdf",
+            "type": "Niestacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-42.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "I1-42.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "I3-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S3"
+            "name": "I3-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S3"
           },
           {
-            "nazwa": "I1n-30.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "I1n-30.pdf",
+            "type": "Niestacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-211.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1-211.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-121.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-121.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1n-10.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1n-10.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-123.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-123.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I3-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S3"
+            "name": "I3-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S3"
           },
           {
-            "nazwa": "I1-220.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1-220.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-110.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-110.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-213.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1-213.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-223.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1-223.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1n-12.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1n-12.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-223.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1-223.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-114.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-114.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1n-20.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1n-20.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-36.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "I1-36.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-41.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "I1-41.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-122.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-122.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-35.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "I1-35.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "I3-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S3"
+            "name": "I3-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S3"
           },
           {
-            "nazwa": "I1-125.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-125.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1n-41.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "I1n-41.pdf",
+            "type": "Niestacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-44.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "I1-44.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-113.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-113.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-43.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "I1-43.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-210.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1-210.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-124.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-124.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-46.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "I1-46.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-212.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1-212.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-222.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1-222.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-34.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "I1-34.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1n-11.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1n-11.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-111.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-111.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "I1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-120.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-120.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-32.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "I1-32.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-112.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-112.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-45.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "I1-45.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-30.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "I1-30.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-33.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "I1-33.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-221.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "I1-221.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "I1-115.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "I1-115.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
-        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+        "extramuralBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "stationaryBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
       },
       {
-        "nazwa": "Informatyka 3 sem.",
-        "plany": [
+        "name": "Informatyka 3 sem.",
+        "sheets": [
           {
-            "nazwa": "I2-16.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "I2-16.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2-14.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "I2-14.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2-24.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "I2-24.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2-27.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "I2-27.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2-28.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "I2-28.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S2"
           }
         ],
-        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
-        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+        "extramuralBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "stationaryBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
       },
       {
-        "nazwa": "Informatyka lato",
-        "plany": [
+        "name": "Informatyka lato",
+        "sheets": [
           {
-            "nazwa": "I2-L17.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "I2-L17.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2-L16.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "I2-L16.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2-L14.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "I2-L14.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S2"
           }
         ],
-        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
-        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+        "extramuralBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "stationaryBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
       },
       {
-        "nazwa": "ZIP",
-        "plany": [
+        "name": "ZIP",
+        "sheets": [
           {
-            "nazwa": "ZIP1-31.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "ZIP1-31.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZIP1-42.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "ZIP1-42.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZIP1n-44.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "ZIP1n-44.pdf",
+            "type": "Niestacjonarne",
+            "year": "4",
+            "degree": "S1"
           },
           {
-            "nazwa": "ZIP1-43.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "ZIP1-43.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
-        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+        "extramuralBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "stationaryBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
       },
       {
-        "nazwa": "BIO",
-        "plany": [
+        "name": "BIO",
+        "sheets": [
           {
-            "nazwa": "BI1-30.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "BI1-30.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "BI1-40.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "4",
-            "stopien": "S1"
+            "name": "BI1-40.pdf",
+            "type": "Stacjonarne",
+            "year": "4",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
-        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+        "extramuralBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "stationaryBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
       },
       {
-        "nazwa": "Informatyka 4 sem.",
-        "plany": [
+        "name": "Informatyka 4 sem.",
+        "sheets": [
           {
-            "nazwa": "I2n-24.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "I2n-24.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2n-14.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "I2n-14.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2n-26.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "I2n-26.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2n-28.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "2",
-            "stopien": "S2"
+            "name": "I2n-28.pdf",
+            "type": "Niestacjonarne",
+            "year": "2",
+            "degree": "S2"
           },
           {
-            "nazwa": "I2n-18.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S2"
+            "name": "I2n-18.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S2"
           }
         ],
-        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
-        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+        "extramuralBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "stationaryBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
       },
       {
-        "nazwa": "SP Analiza i fuzja",
-        "plany": [
+        "name": "SP Analiza i fuzja",
+        "sheets": [
           {
-            "nazwa": "AFDPn-11.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "AFDPn-11.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
-        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+        "extramuralBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "stationaryBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
       },
       {
-        "nazwa": "SP Programowanie",
-        "plany": [
+        "name": "SP Programowanie",
+        "sheets": [
           {
-            "nazwa": "PKn-11.pdf",
-            "rodzaj": "Niestacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "PKn-11.pdf",
+            "type": "Niestacjonarne",
+            "year": "1",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
-        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+        "extramuralBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "stationaryBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
       },
       {
-        "nazwa": "IC",
-        "plany": [
+        "name": "IC",
+        "sheets": [
           {
-            "nazwa": "IC1-11.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "IC1-11.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "IC1-32.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "IC1-32.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           },
           {
-            "nazwa": "IC1-13.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "IC1-13.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "IC1-10.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "IC1-10.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "IC1-20.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "IC1-20.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "IC1-12.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "1",
-            "stopien": "S1"
+            "name": "IC1-12.pdf",
+            "type": "Stacjonarne",
+            "year": "1",
+            "degree": "S1"
           },
           {
-            "nazwa": "IC1-21.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "2",
-            "stopien": "S1"
+            "name": "IC1-21.pdf",
+            "type": "Stacjonarne",
+            "year": "2",
+            "degree": "S1"
           },
           {
-            "nazwa": "IC1-34.pdf",
-            "rodzaj": "Stacjonarne",
-            "rok": "3",
-            "stopien": "S1"
+            "name": "IC1-34.pdf",
+            "type": "Stacjonarne",
+            "year": "3",
+            "degree": "S1"
           }
         ],
-        "podstawaNS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
-        "podstawaS": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
+        "extramuralBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Niestacjonarne/",
+        "stationaryBase": "http://www.wi.zut.edu.pl/plan/Wydruki/PlanGrup/Stacjonarne/"
       }
     ]
   }
