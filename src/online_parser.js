@@ -118,12 +118,7 @@ function parseContent(){
                     
                 }
             }
-            var prepare = {
-                "raw": table.outerHTML,
-                "data": JSON.stringify(collectedElements)
-            }
-           
-            var str = JSON.stringify(prepare);
+            var str = JSON.stringify(collectedElements);
             window.webkit.messageHandlers.passDataMessage.postMessage(str);
 
         }
