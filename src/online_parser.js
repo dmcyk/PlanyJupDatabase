@@ -128,7 +128,7 @@ function parseContent(){
                     "data": data
                 };
                 var str = JSON.stringify(prepare);
-                window.webkit.messageHandlers.passDataMessageAndReport.postMessage(data);
+                window.webkit.messageHandlers.passDataMessageAndReport.postMessage(str);
             } else {
                 window.webkit.messageHandlers.passDataMessage.postMessage(data);
             }
