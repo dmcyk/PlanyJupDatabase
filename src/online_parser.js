@@ -122,7 +122,7 @@ function parseContent(){
             let data = JSON.stringify(collectedElements);
             
             
-            if (window.webkit.messageHandlers.hasOwnProperty("passDataMessageAndReport") {
+            if (window.webkit.messageHandlers.hasOwnProperty("passDataMessageAndReport")) {
                 var prepare = {
                     "raw": table.outerHTML,
                     "data": data
