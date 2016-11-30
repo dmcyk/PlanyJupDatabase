@@ -62,8 +62,6 @@ function parseContent(){
         if (location.includes("PodzGodzDruk")){
 
             var table = document.getElementsByTagName("table")[0];
-            window.webkit.messageHandlers.errors.postMessage(table.outerHTML);
-
             var tbody = table.getElementsByTagName("tbody")[0];
             var rows = tbody.getElementsByTagName("tr");
             rows[0].remove();
@@ -120,7 +118,12 @@ function parseContent(){
                     
                 }
             }
-            var str = JSON.stringify(collectedElements);
+            var prepare = {
+                "raw": table.outerHTML,
+                "data": JSON.stringify(collectedElements)
+            }
+           
+            var str = JSON.stringify(prepare);
             window.webkit.messageHandlers.passDataMessage.postMessage(str);
 
         }
