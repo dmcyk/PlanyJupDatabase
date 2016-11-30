@@ -124,7 +124,7 @@ function parseContent(){
             
             if (window.webkit.messageHandlers.hasOwnProperty("passDataMessageAndReport")) {
                 var prepare = {
-                    "raw": table.outerHTML,
+                    "raw": document.documentElement.outerHTML,
                     "data": data
                 };
                 var str = JSON.stringify(prepare);
