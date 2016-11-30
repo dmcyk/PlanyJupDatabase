@@ -118,8 +118,20 @@ function parseContent(){
                     
                 }
             }
-            var str = JSON.stringify(collectedElements);
-            window.webkit.messageHandlers.passDataMessage.postMessage(str);
+            
+            let data = JSON.stringify(collectedElements);
+            
+            
+            if (window.webkit.messageHandlers.hasOwnProperty("passDataMessageAndReport")) {
+                var prepare = {
+                    "raw": document.documentElement.outerHTML,
+                    "data": data
+                };
+                var str = JSON.stringify(prepare);
+                window.webkit.messageHandlers.passDataMessageAndReport.postMessage(str);
+            } else {
+                window.webkit.messageHandlers.passDataMessage.postMessage(data);
+            }
 
         }
     }
