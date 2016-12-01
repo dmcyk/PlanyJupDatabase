@@ -20,8 +20,12 @@ function parseContent(){
                 
                 if (scheduleTable) {
 
-                    
                     if (nextTerm) {
+                        if (window.webkit.messageHandlers.hasOwnProperty("preprintReport")) {
+                            window.webkit.messageHandlers.preprintReport.postMessage(document.documentElement.outerHTML);
+
+                        }
+
                         var printButton = document.getElementById('ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_btDrukuj');
                         var click = printButton.getAttribute('onclick');
                         var beginLocationIndex = click.indexOf('\'');
