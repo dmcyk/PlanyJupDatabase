@@ -1,6 +1,16 @@
 // Plany - ZUT Online Parsing Script
 
 var nextTerm = sessionStorage["nextTerm"] || false;
+var isPrevious = sessionStorage["isPrevious"] || false;
+var nextData = sessionStorage["nextData"] || NULL;
+var goBack = sessionStorage["goBack"] || false;
+
+function loadPrevious() {
+    var previousButton = document.getElementById("ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_butP");
+    previousButton.checked = true;
+    previousButton.click();
+}
+
 function parseContent(){
     var location = window.location.href;
 
@@ -10,6 +20,10 @@ function parseContent(){
         window.webkit.messageHandlers.canStartLoading.postMessage("");
 
         if (location.includes("PodzGodz")) {
+            if (goBack) {
+                sessionStorage["goBack"] = false;
+                history.back();
+            }
 
             var term = document.getElementById('ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_rbJak_2');
             var termValue = term.getAttribute('checked');
@@ -24,6 +38,15 @@ function parseContent(){
                         if (window.webkit.messageHandlers.hasOwnProperty("preprintReport")) {
                             window.webkit.messageHandlers.preprintReport.postMessage(document.documentElement.outerHTML);
 
+                        }
+                        
+                        if (!isPrevious) {
+                            if (scheduleTable.getElementsByTagName("tr").length < 30) {
+                                sessionStorage["goBack"] = true;
+                                sessionStorage["isPrevious"] = false;
+                                
+                            }
+                            
                         }
 
                         var printButton = document.getElementById('ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_btDrukuj');
@@ -45,9 +68,9 @@ function parseContent(){
                 } else {
 
                     if (nextTerm) {
-                        var previousButton = document.getElementById("ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_butP");
-                        previousButton.checked = true;
-                        previousButton.click();
+                        sessionStorage["isPrevious"] = true;
+                        loadPrevious();
+                        
                     } else {
                         window.webkit.messageHandlers.noData.postMessage("");
                     }
@@ -122,9 +145,21 @@ function parseContent(){
                     
                 }
             }
-            
+            if (nextData) {
+                let next = JSON.parse(nextData);
+                for( key in next) {
+                    collectedElements.push(next[key]);
+                }
+                
+            }
             let data = JSON.stringify(collectedElements);
             
+                
+            
+            if (goBack) {
+                sessionStorage["nextData"] = data;
+                history.back();
+            }
             
             if (window.webkit.messageHandlers.hasOwnProperty("passDataMessageAndReport")) {
                 var prepare = {
