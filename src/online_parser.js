@@ -2,7 +2,7 @@
 
 var nextTerm = sessionStorage["nextTerm"] || false;
 var isPrevious = sessionStorage["isPrevious"] || false;
-var nextData = sessionStorage["nextData"] || NULL;
+var nextData = sessionStorage["nextData"] || null;
 var goBack = sessionStorage["goBack"] || false;
 
 function loadPrevious() {
