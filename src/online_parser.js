@@ -41,7 +41,7 @@ function parseContent(){
                         }
                         
                         if (!isPrevious) {
-                            if (scheduleTable.getElementsByTagName("tr").count < 20) {
+                            if (scheduleTable.getElementsByTagName("tr").length < 30) {
                                 sessionStorage["goBack"] = true;
                                 sessionStorage["isPrevious"] = false;
                                 
