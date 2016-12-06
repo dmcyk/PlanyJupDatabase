@@ -31,8 +31,6 @@ function parseContent(){
             
             if (goBack) {
                 sessionStorage["goBack"] = false;
-                //browserGoBack();
-                //return; debug
             }
 
             var term = document.getElementById('ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_rbJak_2');
@@ -174,6 +172,7 @@ function parseContent(){
             
             if (goBack) {
                 sessionStorage["nextData"] = data;
+                sessionStorage["isPrevious"] = true;
                 browserGoBack();
                 return; 
             }
