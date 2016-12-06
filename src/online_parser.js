@@ -3,11 +3,7 @@
 var nextTerm = JSON.parse(sessionStorage["nextTerm"] || false);
 var isPrevious = JSON.parse(sessionStorage["isPrevious"] || false);
 var nextData = sessionStorage["nextData"] || null;
-
 var goBack = JSON.parse(sessionStorage["goBack"] || false);
-
-//var debugBack = JSON.parse(sessionStorage["debugBack"] || true);
-//var didDebugBack = JSON.parse(sessionStorage["didDebugBack"] || false); 
 
 function browserGoBack() {
     window.history.back();
@@ -37,13 +33,6 @@ function parseContent(){
             var termValue = term.getAttribute('checked');
 
             if (termValue){
-                /*
-                if (debugBack) {
-                    sessionStorage["debugBack"] = false; 
-                    loadPrevious();
-                    return;
-                }*/
-                
                 
                 var scheduleTable = document.getElementById("ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_dgDane");
                 
@@ -166,8 +155,6 @@ function parseContent(){
                 
             }
             let data = JSON.stringify(collectedElements);
-            
-                
             
             if (goBack) {
                 sessionStorage["nextData"] = data;
