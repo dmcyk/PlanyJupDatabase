@@ -32,7 +32,7 @@ function parseContent(){
             if (goBack) {
                 sessionStorage["goBack"] = false;
                 //browserGoBack();
-                return;
+                //return; debug
             }
 
             var term = document.getElementById('ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_rbJak_2');
