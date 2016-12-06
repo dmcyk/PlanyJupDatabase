@@ -3,6 +3,7 @@
 var nextTerm = JSON.parse(sessionStorage["nextTerm"] || false);
 var isPrevious = JSON.parse(sessionStorage["isPrevious"] || false);
 var nextData = sessionStorage["nextData"] || null;
+
 var goBack = JSON.parse(sessionStorage["goBack"] || false);
 
 var debugBack = JSON.parse(sessionStorage["debugBack"] || true);
