@@ -203,6 +203,7 @@ function online_loginUser(login, password) {
     if (loginInput && passInput && loginBtn) {
         loginInput.value = login;
         passInput.value = password;
+        sessionStorage["validation"] = true;
         loginBtn.click();
     }
 }
