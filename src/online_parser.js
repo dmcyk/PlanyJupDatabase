@@ -1,9 +1,13 @@
 // Plany - ZUT Online Parsing Script
 
-var nextTerm = sessionStorage["nextTerm"] || false;
-var isPrevious = sessionStorage["isPrevious"] || false;
+var nextTerm = JSON.parse(sessionStorage["nextTerm"] || false);
+var isPrevious = JSON.parse(sessionStorage["isPrevious"] || false);
 var nextData = sessionStorage["nextData"] || null;
-var goBack = sessionStorage["goBack"] || false;
+var goBack = JSON.parse(sessionStorage["goBack"] || false);
+
+function browserGoBack() {
+    window.history.back();
+}
 
 function loadPrevious() {
     var previousButton = document.getElementById("ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_butP");
@@ -20,9 +24,9 @@ function parseContent(){
         window.webkit.messageHandlers.canStartLoading.postMessage("");
 
         if (location.includes("PodzGodz")) {
+            
             if (goBack) {
                 sessionStorage["goBack"] = false;
-                history.back();
             }
 
             var term = document.getElementById('ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_rbJak_2');
@@ -42,9 +46,7 @@ function parseContent(){
                         
                         if (!isPrevious) {
                             if (scheduleTable.getElementsByTagName("tr").length < 30) {
-                                sessionStorage["goBack"] = true;
-                                sessionStorage["isPrevious"] = false;
-                                
+                                sessionStorage["goBack"] = true;                                
                             }
                             
                         }
@@ -138,7 +140,7 @@ function parseContent(){
                                     break;
 
                                     }
-                                    });
+                        });
                         currentLessons.push(currentLesson);
                         
                     }
@@ -154,11 +156,11 @@ function parseContent(){
             }
             let data = JSON.stringify(collectedElements);
             
-                
-            
             if (goBack) {
                 sessionStorage["nextData"] = data;
-                history.back();
+                sessionStorage["isPrevious"] = true;
+                browserGoBack();
+                return; 
             }
             
             if (window.webkit.messageHandlers.hasOwnProperty("passDataMessageAndReport")) {
