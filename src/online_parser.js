@@ -154,7 +154,7 @@ function parseContent(){
                                     break;
 
                                     }
-                                    });
+                        });
                         currentLessons.push(currentLesson);
                         
                     }
@@ -174,7 +174,8 @@ function parseContent(){
             
             if (goBack) {
                 sessionStorage["nextData"] = data;
-                history.back();
+                browserGoBack();
+                return; 
             }
             
             if (window.webkit.messageHandlers.hasOwnProperty("passDataMessageAndReport")) {
