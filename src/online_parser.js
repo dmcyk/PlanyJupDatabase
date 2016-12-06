@@ -31,7 +31,7 @@ function parseContent(){
             
             if (goBack) {
                 sessionStorage["goBack"] = false;
-                browserGoBack();
+                //browserGoBack();
                 return;
             }
 
