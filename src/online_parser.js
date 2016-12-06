@@ -4,6 +4,7 @@ var nextTerm = JSON.parse(sessionStorage["nextTerm"] || false);
 var isPrevious = JSON.parse(sessionStorage["isPrevious"] || false);
 var nextData = sessionStorage["nextData"] || null;
 var goBack = JSON.parse(sessionStorage["goBack"] || false);
+var validationFlag = JSON.parse(sessionStorage["validation"] || false);
 
 function browserGoBack() {
     window.history.back();
@@ -21,6 +22,7 @@ function parseContent(){
     var user = document.getElementsByClassName("who_is_logged_in")[0];
 
     if (user != null){
+        sessionStorage["validation"] = false;
         window.webkit.messageHandlers.canStartLoading.postMessage("");
 
         if (location.includes("PodzGodz")) {
@@ -175,8 +177,20 @@ function parseContent(){
             }
 
         } else {
-            
-            
+            if (validationFlag) {
+                let loginRes = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_lblMessage");
+                var message = null;
+                if (loginRes) {
+                    if (window.getComputedStyle(loginRes).display !== "none") {
+                        message = "failed";
+                    }
+                } else {
+                    message = "error";
+                }
+                if (window.webkit.messageHandlers.hasOwnProperty("loginFailure")) {
+                    window.webkit.messageHandlers.loginFailure.postMessage(message);
+                }
+            }
         }
     }
 
@@ -185,8 +199,11 @@ function online_loginUser(login, password) {
     // try login fields 
     let loginInput = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtIdent");
     let passInput =  document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtHaslo");
-
-    if (loginInput && passInput) {
+    let loginBtn = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_butLoguj");
+    if (loginInput && passInput && loginBtn) {
+        loginInput.value = login;
+        passInput.value = password;
+        loginBtn.click();
     }
 }
 window.onload = function(){
