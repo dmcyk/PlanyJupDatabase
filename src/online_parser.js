@@ -86,7 +86,7 @@ function parseContent(){
         }else {
                 window.location.href = 'https://edziekanat.zut.edu.pl/WU/PodzGodzin.aspx';
         }
-    }else {
+    } else {
 
         if (location.includes("PodzGodzDruk")){
 
@@ -174,11 +174,21 @@ function parseContent(){
                 window.webkit.messageHandlers.passDataMessage.postMessage(data);
             }
 
+        } else {
+            
+            
         }
     }
 
 }
+function online_loginUser(login, password) {
+    // try login fields 
+    let loginInput = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtIdent");
+    let passInput =  document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtHaslo");
 
+    if (loginInput && passInput) {
+    }
+}
 window.onload = function(){
     parseContent();
 }
