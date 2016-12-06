@@ -8,6 +8,9 @@ var goBack = sessionStorage["goBack"] || false;
 var debugBack = sessionStorage["debugBack"] || true;
 var didDebugBack = sessionStorage["didDebugBack"] || false; 
 
+function browserGoBack() {
+    window.history.back();
+}
 
 function loadPrevious() {
     var previousButton = document.getElementById("ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_butP");
@@ -27,7 +30,7 @@ function parseContent(){
             
             if (goBack) {
                 sessionStorage["goBack"] = false;
-                history.back();
+                browserGoBack();
             }
 
             var term = document.getElementById('ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_rbJak_2');
@@ -35,15 +38,8 @@ function parseContent(){
 
             if (termValue){
                 if (debugBack) {
-                    if (!didDebugBack) {
-                         var nextButton = document.getElementById("ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_butN");
-                        nextButton.checked = true; 
-                        nextButton.click();
-                        sessionStorage["didDebugBack"] = true;
-                    } else {
-                        history.back();
-                        sessionStorage["debugBack"] = false; 
-                    }
+                    loadPrevious();
+                    sessionStorage["debugBack"] = false; 
                 }
                 
                 
