@@ -31,6 +31,7 @@ function parseContent(){
             if (goBack) {
                 sessionStorage["goBack"] = false;
                 browserGoBack();
+                return;
             }
 
             var term = document.getElementById('ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_rbJak_2');
@@ -38,8 +39,9 @@ function parseContent(){
 
             if (termValue){
                 if (debugBack) {
-                    loadPrevious();
                     sessionStorage["debugBack"] = false; 
+                    loadPrevious();
+                    return;
                 }
                 
                 
