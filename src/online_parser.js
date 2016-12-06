@@ -5,6 +5,10 @@ var isPrevious = sessionStorage["isPrevious"] || false;
 var nextData = sessionStorage["nextData"] || null;
 var goBack = sessionStorage["goBack"] || false;
 
+var debugBack = sessionStorage["debugBack"] || true;
+var didDebugBack = sessionStorage["didDebugBack"] || false; 
+
+
 function loadPrevious() {
     var previousButton = document.getElementById("ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_butP");
     previousButton.checked = true;
@@ -20,6 +24,7 @@ function parseContent(){
         window.webkit.messageHandlers.canStartLoading.postMessage("");
 
         if (location.includes("PodzGodz")) {
+            
             if (goBack) {
                 sessionStorage["goBack"] = false;
                 history.back();
@@ -29,6 +34,18 @@ function parseContent(){
             var termValue = term.getAttribute('checked');
 
             if (termValue){
+                if (debugBack) {
+                    if (!didDebugBack) {
+                         var nextButton = document.getElementById("ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_butN");
+                        nextButton.checked = true; 
+                        nextButton.click();
+                        sessionStorage["didDebugBack"] = true;
+                    } else {
+                        history.back();
+                        sessionStorage["debugBack"] = false; 
+                    }
+                }
+                
                 
                 var scheduleTable = document.getElementById("ctl00_ctl00_ContentPlaceHolder_RightContentPlaceHolder_dgDane");
                 
