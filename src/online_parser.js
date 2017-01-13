@@ -149,6 +149,14 @@ function parseContent(){
                     
                 }
             }
+             // last day
+            if (currentElement.hasOwnProperty("date") && currentLessons.length !== 0) {     
+                currentElement["lessons"] = currentLessons;
+                currentLessons = [];
+                collectedElements.push(currentElement);
+                currentElement = {};
+            }
+            
             if (nextData) {
                 let next = JSON.parse(nextData);
                 for( key in next) {
