@@ -5,6 +5,7 @@ var isPrevious = JSON.parse(sessionStorage["isPrevious"] || false);
 var nextData = sessionStorage["nextData"] || null;
 var goBack = JSON.parse(sessionStorage["goBack"] || false);
 var validationFlag = JSON.parse(sessionStorage["validation"] || false);
+var onlyLoginFlag = JSON.parse(sessionStorage["onlyLogin"] || false);
 
 function browserGoBack() {
     window.history.back();
@@ -17,11 +18,18 @@ function loadPrevious() {
 }
 
 function parseContent(){
+    
     var location = window.location.href;
 
     var user = document.getElementsByClassName("who_is_logged_in")[0];
 
-    if (user != null){
+    if (user !== null){
+        if (onlyLoginFlag) {
+            if (window.webkit.messageHandlers.hasOwnProperty("didFinishLogin")) {
+                window.webkit.messageHandlers.didFinishLogin.postMessage("");
+            }
+            return;
+        }
         sessionStorage["validation"] = false;
         window.webkit.messageHandlers.canStartLoading.postMessage("");
 
@@ -89,9 +97,10 @@ function parseContent(){
                 window.location.href = 'https://edziekanat.zut.edu.pl/WU/PodzGodzin.aspx';
         }
     } else {
-
         if (location.includes("PodzGodzDruk")){
-
+            if (onlyLoginFlag) {
+                return;
+            }
             var table = document.getElementsByTagName("table")[0];
             var tbody = table.getElementsByTagName("tbody")[0];
             var rows = tbody.getElementsByTagName("tr");
@@ -203,7 +212,7 @@ function parseContent(){
     }
 
 }
-function online_loginUser(login, password) {
+function online_loginUser(login, password, onlyLogin) {
     // try login fields 
     let loginInput = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtIdent");
     let passInput =  document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtHaslo");
@@ -214,6 +223,7 @@ function online_loginUser(login, password) {
         sessionStorage["validation"] = true;
         loginBtn.click();
     }
+    sessionStorage["onlyLogin"] = true;
 }
 window.onload = function(){
     parseContent();
