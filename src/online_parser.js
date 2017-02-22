@@ -223,7 +223,7 @@ function online_loginUser(login, password, onlyLogin) {
         sessionStorage["validation"] = true;
         loginBtn.click();
     }
-    sessionStorage["onlyLogin"] = true;
+    sessionStorage["onlyLogin"] = onlyLogin;
 }
 window.onload = function(){
     parseContent();
