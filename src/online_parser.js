@@ -21,9 +21,9 @@ function parseContent(){
     
     var location = window.location.href;
 
-    var user = document.getElementsByClassName("who_is_logged_in")[0];
+    var userElement = document.getElementsByClassName("who_is_logged_in"); 
 
-    if (user !== null){
+    if (userElement.length > 0){
         if (onlyLoginFlag) {
             if (window.webkit.messageHandlers.hasOwnProperty("didFinishLogin")) {
                 window.webkit.messageHandlers.didFinishLogin.postMessage("");
