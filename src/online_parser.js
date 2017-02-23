@@ -4,6 +4,8 @@ var nextTerm = JSON.parse(sessionStorage["nextTerm"] || false);
 var isPrevious = JSON.parse(sessionStorage["isPrevious"] || false);
 var nextData = sessionStorage["nextData"] || null;
 var goBack = JSON.parse(sessionStorage["goBack"] || false);
+var validationFlag = JSON.parse(sessionStorage["validation"] || false);
+var onlyLoginFlag = JSON.parse(sessionStorage["onlyLogin"] || false);
 
 function browserGoBack() {
     window.history.back();
@@ -16,11 +18,19 @@ function loadPrevious() {
 }
 
 function parseContent(){
+    
     var location = window.location.href;
 
-    var user = document.getElementsByClassName("who_is_logged_in")[0];
+    var userElement = document.getElementsByClassName("who_is_logged_in"); 
 
-    if (user != null){
+    if (userElement.length > 0){
+        if (onlyLoginFlag) {
+            if (window.webkit.messageHandlers.hasOwnProperty("didFinishLogin")) {
+                window.webkit.messageHandlers.didFinishLogin.postMessage("");
+            }
+            return;
+        }
+        sessionStorage["validation"] = false;
         window.webkit.messageHandlers.canStartLoading.postMessage("");
 
         if (location.includes("PodzGodz")) {
@@ -86,10 +96,11 @@ function parseContent(){
         }else {
                 window.location.href = 'https://edziekanat.zut.edu.pl/WU/PodzGodzin.aspx';
         }
-    }else {
-
+    } else {
         if (location.includes("PodzGodzDruk")){
-
+            if (onlyLoginFlag) {
+                return;
+            }
             var table = document.getElementsByTagName("table")[0];
             var tbody = table.getElementsByTagName("tbody")[0];
             var rows = tbody.getElementsByTagName("tr");
@@ -147,14 +158,14 @@ function parseContent(){
                     
                 }
             }
-            // last day
+             // last day
             if (currentElement.hasOwnProperty("date") && currentLessons.length !== 0) {     
                 currentElement["lessons"] = currentLessons;
                 currentLessons = [];
                 collectedElements.push(currentElement);
                 currentElement = {};
             }
-           
+            
             if (nextData) {
                 let next = JSON.parse(nextData);
                 for( key in next) {
@@ -182,11 +193,38 @@ function parseContent(){
                 window.webkit.messageHandlers.passDataMessage.postMessage(data);
             }
 
+        } else {
+            if (validationFlag) {
+                let loginRes = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_lblMessage");
+                var message = null;
+                if (loginRes) {
+                    if (window.getComputedStyle(loginRes).display !== "none") {
+                        message = "failed";
+                    }
+                } else {
+                    message = "error";
+                }
+                if (window.webkit.messageHandlers.hasOwnProperty("loginFailure")) {
+                    window.webkit.messageHandlers.loginFailure.postMessage(message);
+                }
+            }
         }
     }
 
 }
-
+function online_loginUser(login, password, onlyLogin) {
+    // try login fields 
+    let loginInput = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtIdent");
+    let passInput =  document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtHaslo");
+    let loginBtn = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_butLoguj");
+    if (loginInput && passInput && loginBtn) {
+        loginInput.value = login;
+        passInput.value = password;
+        sessionStorage["validation"] = true;
+        loginBtn.click();
+    }
+    sessionStorage["onlyLogin"] = onlyLogin === 0 ? false : true;
+}
 window.onload = function(){
     parseContent();
 }
