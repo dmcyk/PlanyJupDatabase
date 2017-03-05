@@ -167,7 +167,7 @@ function parseContent(){
             }
             
             if (nextData) {
-                let next = JSON.parse(nextData);
+                var next = JSON.parse(nextData);
                 for( key in next) {
                     collectedElements.push(next[key]);
                 }
