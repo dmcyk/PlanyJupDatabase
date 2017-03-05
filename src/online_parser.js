@@ -174,7 +174,7 @@ function parseContent(){
                 }
                 
             }
-            let data = JSON.stringify(collectedElements);
+            var data = JSON.stringify(collectedElements);
             
             if (goBack) {
                 sessionStorage["nextData"] = data;
@@ -198,7 +198,7 @@ function parseContent(){
 
         } else {
             if (validationFlag) {
-                let loginRes = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_lblMessage");
+                var loginRes = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_lblMessage");
                 var message = null;
                 if (loginRes) {
                     if (window.getComputedStyle(loginRes).display !== "none") {
@@ -218,9 +218,9 @@ function parseContent(){
 
 function online_loginUser(login, password, onlyLogin) {
     // try login fields 
-    let loginInput = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtIdent");
-    let passInput =  document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtHaslo");
-    let loginBtn = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_butLoguj");
+    var loginInput = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtIdent");
+    var passInput =  document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtHaslo");
+    var loginBtn = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_butLoguj");
     if (loginInput && passInput && loginBtn) {
         loginInput.value = login;
         passInput.value = password;
