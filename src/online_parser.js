@@ -167,8 +167,9 @@ function parseContent(){
             }
             
             if (nextData) {
-                let next = JSON.parse(nextData);
-                for( key in next) {
+                
+                var next = JSON.parse(nextData);
+                for (key in next) {
                     collectedElements.push(next[key]);
                 }
                 
@@ -183,10 +184,12 @@ function parseContent(){
             }
             
             if (window.webkit.messageHandlers.hasOwnProperty("passDataMessageAndReport")) {
+                
                 var prepare = {
                     "raw": document.documentElement.outerHTML,
                     "data": data
                 };
+                
                 var str = JSON.stringify(prepare);
                 window.webkit.messageHandlers.passDataMessageAndReport.postMessage(str);
             } else {
@@ -212,6 +215,7 @@ function parseContent(){
     }
 
 }
+
 function online_loginUser(login, password, onlyLogin) {
     // try login fields 
     let loginInput = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtIdent");
@@ -225,6 +229,7 @@ function online_loginUser(login, password, onlyLogin) {
     }
     sessionStorage["onlyLogin"] = onlyLogin === 0 ? false : true;
 }
+
 window.onload = function(){
     parseContent();
 }
