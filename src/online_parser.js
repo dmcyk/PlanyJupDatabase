@@ -200,6 +200,7 @@ function parseContent(){
             if (validationFlag) {
                 var loginRes = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_lblMessage");
                 var message = null;
+                
                 if (loginRes) {
                     if (window.getComputedStyle(loginRes).display !== "none") {
                         message = "failed";
@@ -207,6 +208,7 @@ function parseContent(){
                 } else {
                     message = "error";
                 }
+                
                 if (window.webkit.messageHandlers.hasOwnProperty("loginFailure")) {
                     window.webkit.messageHandlers.loginFailure.postMessage(message);
                 }
@@ -217,6 +219,7 @@ function parseContent(){
 }
 
 function online_loginUser(login, password, onlyLogin) {
+    
     // try login fields 
     var loginInput = document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtIdent");
     var passInput =  document.getElementById("ctl00_ctl00_ContentPlaceHolder_MiddleContentPlaceHolder_txtHaslo");
@@ -227,6 +230,7 @@ function online_loginUser(login, password, onlyLogin) {
         sessionStorage["validation"] = true;
         loginBtn.click();
     }
+    
     sessionStorage["onlyLogin"] = onlyLogin === 0 ? false : true;
 }
 
