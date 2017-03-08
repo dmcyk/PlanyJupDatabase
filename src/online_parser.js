@@ -7,20 +7,6 @@ var goBack = JSON.parse(sessionStorage["goBack"] || false);
 var validationFlag = JSON.parse(sessionStorage["validation"] || false);
 var onlyLoginFlag = JSON.parse(sessionStorage["onlyLogin"] || false);
 
-if (!String.prototype.includes) {
-    String.prototype.includes = function(search, start) {
-      if (typeof start !== 'number') {
-        start = 0;
-      }
-
-      if (start + search.length > this.length) {
-        return false;
-      } else {
-        return this.indexOf(search, start) !== -1;
-      }
-    };
-  }
-
 function browserGoBack() {
     window.history.back();
 }
@@ -249,7 +235,7 @@ function online_loginUser(login, password, onlyLogin) {
 }
 
 window.onload = function(){
-    if (location.includes("OgloszeniaFrame")) {
+    if (location.href.includes("OgloszeniaFrame")) {
         return;
     }
     parseContent();
