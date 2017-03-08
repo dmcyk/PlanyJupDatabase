@@ -235,5 +235,8 @@ function online_loginUser(login, password, onlyLogin) {
 }
 
 window.onload = function(){
+    if (location.includes("OgloszeniaFrame")) {
+        return;
+    }
     parseContent();
 }
